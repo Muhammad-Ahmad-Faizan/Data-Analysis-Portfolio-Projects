@@ -12,17 +12,17 @@ Welcome to my Data Analysis Portfolio! This repository contains various projects
 - **Deliverables**: 
   - Time series forecasting models.
   - Interactive Power BI dashboard with KPIs (Sales, Profit, Trends).
-  - [https://ecommercesalesanalysis.netlify.app/](#) (Link to live dashboard).
+  - [https://ecommercesalesanalysis.netlify.app/](#) (Copy and open Link to live dashboard).
 
 ---
 
 ### 2. [📉 Customer Churn Prediction](#customer-churn-prediction)
 - **Description**: Predicting customer churn using machine learning models and visualizing key churn factors.
-- **Tools**: Python (Pandas, Scikit-learn), Looker Studio (Google Data Studio), Tableau
+- **Tools**: Python (Pandas, Scikit-learn), Looker Studio (Google Data Studio)
 - **Deliverables**: 
   - Churn prediction model using Random Forests.
   - Interactive dashboard for churn visualization in Looker Studio and Tableau.
-  - [https://customerchurnanalysis.netlify.app/](#) (Link to live dashboard).
+  - [https://customerchurnanalysis.netlify.app/](#) (Copy and open Link to live dashboard).
 
 ---
 
